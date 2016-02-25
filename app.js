@@ -16,7 +16,7 @@ else
 
 
 
-// React
+// ReactJS
 
 var rheader = React.createClass({
     render: function() {
